@@ -1,0 +1,5 @@
+Modeling Spatial Mobility
+
+This research group focuses on the development and application of transportation and land-use models.
+
+This research group is currently developing an integrated land use/transportation model for the Munich Metropolitan Area.
